@@ -1,8 +1,4 @@
-export default function Button({ color, text}) {
-
-    const onClick = (e) => {
-        alert(e.cancelable)
-    }
+export default function Button({ color, text, onClick}) {
 
     return (
         <button style={{backgroundColor: color}} className='btn' onClick={onClick}>
