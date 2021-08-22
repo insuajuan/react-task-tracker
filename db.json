@@ -11,12 +11,6 @@
       "text": "Keep Learning",
       "day": "Aug 19th at 23:00",
       "reminder": true
-    },
-    {
-      "text": "watch movie",
-      "day": "now",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
